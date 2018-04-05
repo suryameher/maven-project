@@ -1,3 +1,1 @@
-Hello, Good Morning
-
-POLL SCM Example
+Tomcat Staging Example
